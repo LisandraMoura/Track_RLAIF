@@ -41,10 +41,10 @@ track_RLAIF/
 
 ### Como usar este repositório
 
-Navegue em recipes/ para ver tutoriais simples (ex.: treinar um RM com TRL).
+- Navegue em recipes/ para ver tutoriais simples (ex.: treinar um RM com TRL).
 
-Consulte datasets/ para instruções de download e formatação.
+- Consulte datasets/ para instruções de download e formatação.
 
-Explore distillation/ para exemplos práticos de geração de datasets artificiais.
+- Explore distillation/ para exemplos práticos de geração de datasets artificiais.
 
-Veja reproductions/ para comparações com artigos da área.
+- Veja reproductions/ para comparações com artigos da área.
